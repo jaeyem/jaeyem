@@ -8,9 +8,7 @@
 
 #
 
-
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3234878" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/dd0x.png" alt="Your Image Badge" />
 
 [TryHackMe Profile](https://tryhackme.com/p/dd0x)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
