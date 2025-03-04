@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 👋 Hi, I’m @Jaeyemm<br>- 💯 I'm an IT student<br>- Inspired to be in a Cybersecurity Field
+#  About Me:
+-  Hi, I’m @jaeyem<br>- I'm an IT student<br>- Inspired to be in a Cybersecurity Field
 
 
 # 💻 Tech Stack:
