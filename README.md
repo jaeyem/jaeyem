@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What's+up!+I'm+JM+-+aka+dd0x)](https://git.io/typing-svg)
+
 #  About Me:
- Hi, I’m @jaeyem<br> I'm an IT student<br> Inspired to be in a Cybersecurity Field
+I'm an IT student<br> Inspired to be in a Cybersecurity Field
 
 
 # 💻 Tech Stack:
