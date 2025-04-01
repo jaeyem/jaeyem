@@ -11,7 +11,6 @@ I'm an IT student<br> Inspired to be in a Cybersecurity Field
 #
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/dd0x.png" alt="Your Image Badge" />
 
 [TryHackMe Profile](https://tryhackme.com/p/dd0x)
 
